@@ -1,0 +1,32 @@
+D:\!Фит ПОИТ\!4 семестр\ООП\Решения\Лабораторная 2\OOP2\OOP2\bin\Debug\OOP2.exe.config
+D:\!Фит ПОИТ\!4 семестр\ООП\Решения\Лабораторная 2\OOP2\OOP2\bin\Debug\OOP2.exe
+D:\!Фит ПОИТ\!4 семестр\ООП\Решения\Лабораторная 2\OOP2\OOP2\bin\Debug\OOP2.pdb
+D:\!Фит ПОИТ\!4 семестр\ООП\Решения\Лабораторная 2\OOP2\OOP2\obj\Debug\OOP2.csprojAssemblyReference.cache
+D:\!Фит ПОИТ\!4 семестр\ООП\Решения\Лабораторная 2\OOP2\OOP2\obj\Debug\OOP2.Form1.resources
+D:\!Фит ПОИТ\!4 семестр\ООП\Решения\Лабораторная 2\OOP2\OOP2\obj\Debug\OOP2.Properties.Resources.resources
+D:\!Фит ПОИТ\!4 семестр\ООП\Решения\Лабораторная 2\OOP2\OOP2\obj\Debug\OOP2.csproj.GenerateResource.cache
+D:\!Фит ПОИТ\!4 семестр\ООП\Решения\Лабораторная 2\OOP2\OOP2\obj\Debug\OOP2.csproj.CoreCompileInputs.cache
+D:\!Фит ПОИТ\!4 семестр\ООП\Решения\Лабораторная 2\OOP2\OOP2\obj\Debug\OOP2.exe
+D:\!Фит ПОИТ\!4 семестр\ООП\Решения\Лабораторная 2\OOP2\OOP2\obj\Debug\OOP2.pdb
+\\Mac\Home\Desktop\OOP2\OOP2\bin\Debug\OOP2.exe.config
+\\Mac\Home\Desktop\OOP2\OOP2\bin\Debug\OOP2.exe
+\\Mac\Home\Desktop\OOP2\OOP2\bin\Debug\OOP2.pdb
+\\Mac\Home\Desktop\OOP2\OOP2\obj\Debug\OOP2.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\OOP2\OOP2\obj\Debug\OOP2.Form1.resources
+\\Mac\Home\Desktop\OOP2\OOP2\obj\Debug\OOP2.Properties.Resources.resources
+\\Mac\Home\Desktop\OOP2\OOP2\obj\Debug\OOP2.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\OOP2\OOP2\obj\Debug\OOP2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\OOP2\OOP2\obj\Debug\OOP2.exe
+\\Mac\Home\Desktop\OOP2\OOP2\obj\Debug\OOP2.pdb
+\\Mac\Home\Desktop\ООП\лабы\OOP2\OOP2\bin\Debug\OOP2.exe.config
+\\Mac\Home\Desktop\ООП\лабы\OOP2\OOP2\bin\Debug\OOP2.exe
+\\Mac\Home\Desktop\ООП\лабы\OOP2\OOP2\bin\Debug\OOP2.pdb
+\\Mac\Home\Desktop\ООП\лабы\OOP2\OOP2\obj\Debug\OOP2.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\ООП\лабы\OOP2\OOP2\obj\Debug\OOP2.Form1.resources
+\\Mac\Home\Desktop\ООП\лабы\OOP2\OOP2\obj\Debug\OOP2.Properties.Resources.resources
+\\Mac\Home\Desktop\ООП\лабы\OOP2\OOP2\obj\Debug\OOP2.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\ООП\лабы\OOP2\OOP2\obj\Debug\OOP2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\ООП\лабы\OOP2\OOP2\obj\Debug\OOP2.exe
+\\Mac\Home\Desktop\ООП\лабы\OOP2\OOP2\obj\Debug\OOP2.pdb
+\\Mac\Home\Desktop\ООП\лабы\OOP2\OOP2\obj\Debug\OOP2.Form2.resources
+\\Mac\Home\Desktop\ООП\лабы\OOP2\OOP2\obj\Debug\OOP2.Form3.resources
